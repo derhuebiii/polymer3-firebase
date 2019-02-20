@@ -1,9 +1,9 @@
 # polymer3-firebase
 Basic implementation of using firebase/firestore in polymer3
 
-# ATTENTION: This component still contains a lot of unneccessary content and is not properly tested. It should serve as start to find an alternative to use firebase and firestore with Polymer 3.
+# ATTENTION: This component still contains a lot of unneccessary content and is not properly tested. It should serve as start to find an alternative to use firebase and firestore with Polymer 3. 
 
-# NOT TESTED - NO WARRANTIES OF ANY KIND :)
+# NOT TESTED - NO WARRANTIES OF ANY KIND :) Please do not use in production yet!
 
 # Basic usage
     <!-- AUTHENTICATION (more settings to be done in data-auth.js, this is to be changed -->
