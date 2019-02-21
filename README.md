@@ -7,7 +7,7 @@ Basic implementation of using firebase/firestore in polymer3
 
 # Basic usage
     <!-- AUTHENTICATION (more settings to be done in data-auth.js, this is to be changed -->
-    <data-auth id="auth" user="{{user}}" location="http://lead-761a7.firebaseapp.com" status-known="{{userStatusKnown}}"></data-auth>
+    <data-auth id="auth" user="{{user}}" location="..." status-known="{{userStatusKnown}}"></data-auth>
 
 
     <!-- FIREBASE -->
